@@ -107,7 +107,7 @@ json = {
 
 3. if something went wrong
 
-404 Status code with 
+500 Status code with 
 json = {
     "status": 'fail',
     "message": 'Something went wrong'
